@@ -8,7 +8,7 @@ print(lis)
 print("the smallest is :", min(lis))
 
 #for finding the smallest number in the list without using builtin function
-#consider the first element in the list is small and assign into variable name small
+#consider the first element in the list is smallest value and assign into variable name small
 small = int(lis[0])
 
 #using for loop taking elements in list one by one and checking with small 
